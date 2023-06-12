@@ -24,3 +24,11 @@ Please do ⭐ the repository, if you like this.😊
 
 <br />
  📧 Email : reetu0572@gmail.com
+
+
+
+
+
+[twitter]: https://twitter.com/Reetu23403806
+[instagram]: https://www.instagram.com/_imreetumehra_/
+[linkedin]: https://www.linkedin.com/in/reetu-kumari-304788209/
