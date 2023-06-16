@@ -1,5 +1,6 @@
 # Sorting-visualizer
 A web application showcasing the inner workings of sorting algorithms.
+The Sorting Visualizer project is a dynamic and interactive web application that demonstrates various sorting algorithms using JavaScript, HTML, and CSS. Through animated visualizations, this project provides a hands-on learning experience to understand and compare different sorting techniques.
 
 Implemented algorithms:
 
